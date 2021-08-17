@@ -1,0 +1,2 @@
+# wecare
+integrated capstone project
